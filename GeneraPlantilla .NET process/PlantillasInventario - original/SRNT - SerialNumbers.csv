@@ -1,0 +1,58 @@
+ParentKey;LineNum;ManufacturerSerialNumber;InternalSerialNumber;ExpiryDate;ManufactureDate;ReceptionDate;WarrantyStart;WarrantyEnd;Location;Notes;BatchID;SystemSerialNumber;BaseLineNumber;Quantity;TrackingNote;TrackingNoteLine;ItemCode
+DocNum;LineNum;MnfSerial;DistNumber;ExpDate;MnfDate;InDate;GrntStart;GrntExp;Location;Notes;LotNumber;SysNumber;DocLineNum;Quantity;TrackingNt;TrackiNtLn;ItemCode
+;"It should be an integer which begin with 0, it is both for updating and importing.";"Description: Manufacturer Serial No.
+Type: string
+Field Length: 36
+";"Description: Distinct Number
+Type: string
+Field Length: 36
+";"Description: Expiration Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Manufacturing Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Admission Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Warranty Start Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Warranty End Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Location
+Type: string
+Field Length: 100
+";"Description: Det.
+Type: string
+Field Length: 256000
+";"Description: Lot Number
+Type: string
+Field Length: 36
+";"Description: System Number
+Type: long
+Field Length: 11
+";"Description: Row No. in Document
+Type: long
+Field Length: 11
+";"Description: Quantity
+Type: double
+Field Length: 40
+";"Description: CCD Tracking Note
+Type: long
+Field Length: 11
+";"Description: CCD Tracking Note Line
+Type: long
+Field Length: 11
+";"Description: Item Code
+Type: string
+Field Length: 50
+Related Table: OITM
+This field is mandatory"
+"This field serves as a link to the parent template and it is mandatory. Either when adding new data or updating existing data, the value of this field should be taken from the parent template (the value of the first field in the parent template). The name of the parent key field is specified in the second row of this template.";;;;;;;;;;;;;;;;;

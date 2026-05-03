@@ -1,0 +1,3 @@
+ItemCode	CardCode
+ItemCode	CardCode
+n508	PE00000009

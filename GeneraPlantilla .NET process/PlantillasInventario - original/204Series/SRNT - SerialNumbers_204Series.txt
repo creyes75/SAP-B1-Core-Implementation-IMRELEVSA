@@ -1,0 +1,937 @@
+ParentKey	LineNum	ManufacturerSerialNumber	InternalSerialNumber	ExpiryDate	ManufactureDate	ReceptionDate	WarrantyStart	WarrantyEnd	Location	Notes	BatchID	SystemSerialNumber	BaseLineNumber	Quantity	TrackingNote	TrackingNoteLine	ItemCode
+DocNum	LineNum	MnfSerial	DistNumber	ExpDate	MnfDate	InDate	GrntStart	GrntExp	Location	Notes	LotNumber	SysNumber	DocLineNum	Quantity	TrackingNt	TrackiNtLn	ItemCode
+5		ADA-000037	ADA-000037		20201031	20201031				MAX 115			0	1			MAX 115
+5		ADA-000048	ADA-000048		20201031	20201031				AC-50 STAGEMAN			1	1			AC-50 STAGEMAN
+5		ADA-000069	ADA-000069		20201031	20201031				CM15R US DB			2	1			CM15R US DB
+5		ADA-000156	ADA-000156		20201031	20201031				CM15R US DR			3	1			CM15R US DR
+5		ADA-000178	ADA-000178		20201031	20201031				MIGHTY 15SE			4	1			MIGHTY 15SE
+5		ADA-000182	ADA-000182		20201031	20201031				MIGHTY 30SE			5	1			MIGHTY 30SE
+5		ADA-000197	ADA-000197		20201031	20201031				KICKSTART30			6	1			KICKSTART30
+5		ADA-000205	ADA-000205		20201031	20201031				BANDIT 112			7	1			BANDIT 112
+5		ADA-000206	ADA-000206		20201031	20201031				VYPYR VIP1			8	1			VYPYR VIP1
+5		ADA-000207	ADA-000207		20201031	20201031				VYPYR VIP1			8	1			VYPYR VIP1
+5		ADA-000323	ADA-000323		20201031	20201031				GE30B			9	1			GE30B
+5		ADA-000344	ADA-000344		20201031	20201031				PVI8500			10	1			PVI8500
+5		AUD-000200	AUD-000200		20201031	20201031				HDP DJ M40.1			11	1			HDP DJ M40.1
+5		BAJ-000080	BAJ-000080		20201031	20201031				ACTION PJ OPW			12	1			ACTION PJ OPW
+5		BAJ-000090	BAJ-000090		20201031	20201031				ACTION DLX PLUS CRS			13	1			ACTION DLX PLUS CRS
+5		BAJ-000106	BAJ-000106		20201031	20201031				ACTION BASS PLUS TR			14	1			ACTION BASS PLUS TR
+5		BAJ-000116	BAJ-000116		20201031	20201031				A4 ULTRA RWAS W/CASE			15	1			A4 ULTRA RWAS W/CASE
+5		BAJ-000292	BAJ-000292		20201031	20201031				B5 PLUS AS OPN			16	1			B5 PLUS AS OPN
+5		BAJ-000312	BAJ-000312		20201031	20201031				C5 PLUS ZBMH OTAB			17	1			C5 PLUS ZBMH OTAB
+5		BAJ-000313	BAJ-000313		20201031	20201031				C5 PLUS ZBMH OTAB			17	1			C5 PLUS ZBMH OTAB
+5		BAJ-000325	BAJ-000325		20201031	20201031				GB34A WS			18	1			GB34A WS
+5		BAT-000011	BAT-000011		20201031	20201031				CSD500			19	1			CSD500
+5		CAB-000001	CAB-000001		20201031	20201031				QUBE300 NT OF			20	1			QUBE300 NT OF
+5		CAJACT-000001	CAJACT-000001		20201031	20201031				PD15U_PSS-912			21	1			PD15U_PSS-912
+5		CAJACT-000002	CAJACT-000002		20201031	20201031				PD15U_PSS-912			21	1			PD15U_PSS-912
+5		CAJACT-000104	CAJACT-000104		20201031	20201031				AVANTI15A_SB-16			22	1			AVANTI15A_SB-16
+5		CAJACT-000165	CAJACT-000165		20201031	20201031				TAP40A BK			23	1			TAP40A BK
+5		CAJACT-000219	CAJACT-000219		20201031	20201031				ALTEA-415A			24	1			ALTEA-415A
+5		CAJACT-000220	CAJACT-000220		20201031	20201031				ALTEA-415A			24	1			ALTEA-415A
+5		CAJACT-000221	CAJACT-000221		20201031	20201031				ALTEA-415A			24	1			ALTEA-415A
+5		CAJACT-000222	CAJACT-000222		20201031	20201031				ALTEA-415A			24	1			ALTEA-415A
+5		CAJACT-000223	CAJACT-000223		20201031	20201031				ALTEA-415A			24	1			ALTEA-415A
+5		CAJACT-000224	CAJACT-000224		20201031	20201031				ALTEA-415A			24	1			ALTEA-415A
+5		CAJACT-000225	CAJACT-000225		20201031	20201031				ALTEA-415A			24	1			ALTEA-415A
+5		CAJACT-000227	CAJACT-000227		20201031	20201031				DM115			25	1			DM115
+5		CAJACT-000239	CAJACT-000239		20201031	20201031				DPE 4P USLC			26	1			DPE 4P USLC
+5		CAJACT-000305	CAJACT-000305		20201031	20201031				RBN112 ENCLOSURE			27	1			RBN112 ENCLOSURE
+5		CAJACT-000378	CAJACT-000378		20201031	20201031				X15A-MP			28	1			X15A-MP
+5		CAJACT-000379	CAJACT-000379		20201031	20201031				X15A-MP			28	1			X15A-MP
+5		CAJACT-000380	CAJACT-000380		20201031	20201031				KR-7812R			29	1			KR-7812R
+5		CAJACT-000381	CAJACT-000381		20201031	20201031				KR-7812R			29	1			KR-7812R
+5		CAJACT-000382	CAJACT-000382		20201031	20201031				KR-41BL OF			30	1			KR-41BL OF
+5		CAJACT-000383	CAJACT-000383		20201031	20201031				KR-41BL OF			30	1			KR-41BL OF
+5		CAJACT-000384	CAJACT-000384		20201031	20201031				KR-41BL OF			30	1			KR-41BL OF
+5		CAJACT-000385	CAJACT-000385		20201031	20201031				KR-41BL OF			30	1			KR-41BL OF
+5		CAJACT-000386	CAJACT-000386		20201031	20201031				KR-41RD OF			31	1			KR-41RD OF
+5		CAJACT-000387	CAJACT-000387		20201031	20201031				KR-41RD OF			31	1			KR-41RD OF
+5		CAJACT-000388	CAJACT-000388		20201031	20201031				KR-61RD OF			32	1			KR-61RD OF
+5		CAJACT-000389	CAJACT-000389		20201031	20201031				KR-61BL OF			33	1			KR-61BL OF
+5		CAJACT-000390	CAJACT-000390		20201031	20201031				KR-61BL OF			33	1			KR-61BL OF
+5		CAJACT-000391	CAJACT-000391		20201031	20201031				KR-61BL OF			33	1			KR-61BL OF
+5		CAJACT-000392	CAJACT-000392		20201031	20201031				KR-61BL OF			33	1			KR-61BL OF
+5		CAJACT-000393	CAJACT-000393		20201031	20201031				KR-62BK OF			34	1			KR-62BK OF
+5		CAJACT-000421	CAJACT-000421		20201031	20201031				DELTA15			35	1			DELTA15
+5		CAJACT-000422	CAJACT-000422		20201031	20201031				DELTA15			35	1			DELTA15
+5		CAJACT-000423	CAJACT-000423		20201031	20201031				DELTA15			35	1			DELTA15
+5		CAJACT-000424	CAJACT-000424		20201031	20201031				DELTA15			35	1			DELTA15
+5		CAJACT-000425	CAJACT-000425		20201031	20201031				DELTA15			35	1			DELTA15
+5		CAJACT-000426	CAJACT-000426		20201031	20201031				DELTA15			35	1			DELTA15
+5		CAJACT-000427	CAJACT-000427		20201031	20201031				DELTA15			35	1			DELTA15
+5		CAJACT-000433	CAJACT-000433		20201031	20201031				KR-152LW			36	1			KR-152LW
+5		CAJACT-000434	CAJACT-000434		20201031	20201031				KR-152LW			36	1			KR-152LW
+5		CAJACT-000435	CAJACT-000435		20201031	20201031				KR-152LW			36	1			KR-152LW
+5		CAJACT-000436	CAJACT-000436		20201031	20201031				KR-152LW			36	1			KR-152LW
+5		CAJACT-000437	CAJACT-000437		20201031	20201031				KR-152LW			36	1			KR-152LW
+5		CAJACT-000438	CAJACT-000438		20201031	20201031				KR-152LW			36	1			KR-152LW
+5		CAJACT-000439	CAJACT-000439		20201031	20201031				KR-152LW			36	1			KR-152LW
+5		CAJACT-000440	CAJACT-000440		20201031	20201031				KR-152LW			36	1			KR-152LW
+5		CAJACT-000441	CAJACT-000441		20201031	20201031				KR-151L REMATE			37	1			KR-151L REMATE
+5		CAJACT-000442	CAJACT-000442		20201031	20201031				KR-151L REMATE			37	1			KR-151L REMATE
+5		CAJACT-000443	CAJACT-000443		20201031	20201031				KR-152B			38	1			KR-152B
+5		CAJACT-000444	CAJACT-000444		20201031	20201031				KR-152B			38	1			KR-152B
+5		CAJACT-000445	CAJACT-000445		20201031	20201031				KR-152B			38	1			KR-152B
+5		CAJACT-000446	CAJACT-000446		20201031	20201031				KR-152B			38	1			KR-152B
+5		CAJACT-000558	CAJACT-000558		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000559	CAJACT-000559		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000560	CAJACT-000560		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000561	CAJACT-000561		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000562	CAJACT-000562		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000563	CAJACT-000563		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000564	CAJACT-000564		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000565	CAJACT-000565		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000566	CAJACT-000566		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000567	CAJACT-000567		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000568	CAJACT-000568		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000569	CAJACT-000569		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000570	CAJACT-000570		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000571	CAJACT-000571		20201031	20201031				SIGMA156Y			39	1			SIGMA156Y
+5		CAJACT-000573	CAJACT-000573		20201031	20201031				SIGMA156BL REMATE			40	1			SIGMA156BL REMATE
+5		CAJACT-000839	CAJACT-000839		20201031	20201031				SIGMA156BL			41	1			SIGMA156BL
+5		CAJACT-000840	CAJACT-000840		20201031	20201031				SIGMA156BL			41	1			SIGMA156BL
+5		CAJACT-000841	CAJACT-000841		20201031	20201031				SIGMA156BL			41	1			SIGMA156BL
+5		CAJACT-000842	CAJACT-000842		20201031	20201031				AX-SPA156BL			42	1			AX-SPA156BL
+5		CAJACT-000843	CAJACT-000843		20201031	20201031				AX-SPA156BL			42	1			AX-SPA156BL
+5		CAJACT-000844	CAJACT-000844		20201031	20201031				INFINITY15			43	1			INFINITY15
+5		CAJACT-000845	CAJACT-000845		20201031	20201031				INFINITY15			43	1			INFINITY15
+5		CAJACT-000846	CAJACT-000846		20201031	20201031				INFINITY15			43	1			INFINITY15
+5		CAJACT-000847	CAJACT-000847		20201031	20201031				INFINITY15			43	1			INFINITY15
+5		CAJACT-000848	CAJACT-000848		20201031	20201031				INFINITY15			43	1			INFINITY15
+5		CAJACT-000851	CAJACT-000851		20201031	20201031				SIGMA156B LIQUIDACION			44	1			SIGMA156B LIQUIDACION
+5		CAJACT-000852	CAJACT-000852		20201031	20201031				SIGMA156B REMATE			45	1			SIGMA156B REMATE
+5		CAJACT-000853	CAJACT-000853		20201031	20201031				SIGMA156B REMATE			45	1			SIGMA156B REMATE
+5		CAJACT-001195	CAJACT-001195		20201031	20201031				SIGMA156B			46	1			SIGMA156B
+5		CAJACT-001196	CAJACT-001196		20201031	20201031				SIGMA156B			46	1			SIGMA156B
+5		CAJACT-001197	CAJACT-001197		20201031	20201031				SIGMA156B			46	1			SIGMA156B
+5		CAJACT-001198	CAJACT-001198		20201031	20201031				SIGMA156B			46	1			SIGMA156B
+5		CAJACT-001199	CAJACT-001199		20201031	20201031				SIGMA156B			46	1			SIGMA156B
+5		CAJACT-001200	CAJACT-001200		20201031	20201031				SIGMA156B			46	1			SIGMA156B
+5		CAJACT-001509	CAJACT-001509		20201031	20201031				SIGMA156R			47	1			SIGMA156R
+5		CAJACT-001510	CAJACT-001510		20201031	20201031				SIGMA156R			47	1			SIGMA156R
+5		CAJACT-001511	CAJACT-001511		20201031	20201031				SIGMA156R			47	1			SIGMA156R
+5		CAJACT-001512	CAJACT-001512		20201031	20201031				SIGMA156R			47	1			SIGMA156R
+5		CAJACT-001513	CAJACT-001513		20201031	20201031				SIGMA156R			47	1			SIGMA156R
+5		CAJACT-001520	CAJACT-001520		20201031	20201031				SIGMA156G			48	1			SIGMA156G
+5		CAJACT-001521	CAJACT-001521		20201031	20201031				SIGMA156G			48	1			SIGMA156G
+5		CAJACT-001522	CAJACT-001522		20201031	20201031				SIGMA156G			48	1			SIGMA156G
+5		CAJACT-001523	CAJACT-001523		20201031	20201031				SIGMA156G			48	1			SIGMA156G
+5		CAJACT-001548	CAJACT-001548		20201031	20201031				AX-SPA2156LED			49	1			AX-SPA2156LED
+5		CAJACT-001917	CAJACT-001917		20201031	20201031				IMPACT TWO			50	1			IMPACT TWO
+5		CAJACT-001918	CAJACT-001918		20201031	20201031				IMPACT TWO			50	1			IMPACT TWO
+5		CAJACT-001919	CAJACT-001919		20201031	20201031				IMPACT TWO			50	1			IMPACT TWO
+5		CAJACT-001920	CAJACT-001920		20201031	20201031				IMPACT TWO			50	1			IMPACT TWO
+5		CAJACT-001956	CAJACT-001956		20201031	20201031				KR-X10D			51	1			KR-X10D
+5		CAJACT-001971	CAJACT-001971		20201031	20201031				AX-DJ10			52	1			AX-DJ10
+5		CAJACT-001972	CAJACT-001972		20201031	20201031				AX-DJ10			52	1			AX-DJ10
+5		CAJACT-001973	CAJACT-001973		20201031	20201031				AX-DJ10			52	1			AX-DJ10
+5		CAJACT-001976	CAJACT-001976		20201031	20201031				KR-G12			53	1			KR-G12
+5		CAJACT-001978	CAJACT-001978		20201031	20201031				KR-X12D			54	1			KR-X12D
+5		CAJACT-001979	CAJACT-001979		20201031	20201031				KR-X12D			54	1			KR-X12D
+5		CAJACT-001980	CAJACT-001980		20201031	20201031				KR-X12D			54	1			KR-X12D
+5		CAJACT-001981	CAJACT-001981		20201031	20201031				KR-G15			55	1			KR-G15
+5		CAJACT-001982	CAJACT-001982		20201031	20201031				KR-X15D			56	1			KR-X15D
+5		CAJACT-001983	CAJACT-001983		20201031	20201031				KR-X15D			56	1			KR-X15D
+5		CAJACT-001988	CAJACT-001988		20201031	20201031				AX-SRL156			57	1			AX-SRL156
+5		CAJACT-001989	CAJACT-001989		20201031	20201031				AX-SRL156			57	1			AX-SRL156
+5		CAJACT-001990	CAJACT-001990		20201031	20201031				AX-SRL156			57	1			AX-SRL156
+5		CAJACT-001991	CAJACT-001991		20201031	20201031				AX-SRL156			57	1			AX-SRL156
+5		CAJACT-001992	CAJACT-001992		20201031	20201031				AX-SRL156			57	1			AX-SRL156
+5		CAJACT-002008	CAJACT-002008		20201031	20201031				AX-SPA1504R			58	1			AX-SPA1504R
+5		CAJACT-002009	CAJACT-002009		20201031	20201031				AX-SPA1504R			58	1			AX-SPA1504R
+5		CAJACT-002010	CAJACT-002010		20201031	20201031				AX-SPA1504R			58	1			AX-SPA1504R
+5		CAJACT-002018	CAJACT-002018		20201031	20201031				AX-51BL			59	1			AX-51BL
+5		CAJACT-002019	CAJACT-002019		20201031	20201031				AX-51BL			59	1			AX-51BL
+5		CAJACT-002020	CAJACT-002020		20201031	20201031				AX-51BL			59	1			AX-51BL
+5		CAJACT-002021	CAJACT-002021		20201031	20201031				AX-51BL			59	1			AX-51BL
+5		CAJACT-002022	CAJACT-002022		20201031	20201031				KR-51BL_			60	1			KR-51BL_
+5		CAJACT-002023	CAJACT-002023		20201031	20201031				AX-51BK			61	1			AX-51BK
+5		CAJACT-002024	CAJACT-002024		20201031	20201031				AX-51BK			61	1			AX-51BK
+5		CAJACT-002025	CAJACT-002025		20201031	20201031				AX-51BK			61	1			AX-51BK
+5		CAJACT-002026	CAJACT-002026		20201031	20201031				AX-51BK			61	1			AX-51BK
+5		CAJACT-002027	CAJACT-002027		20201031	20201031				AX-51BK			61	1			AX-51BK
+5		CAJACT-002028	CAJACT-002028		20201031	20201031				AX-51BK			61	1			AX-51BK
+5		CAJACT-002029	CAJACT-002029		20201031	20201031				KR-LG8			62	1			KR-LG8
+5		CAJACT-002030	CAJACT-002030		20201031	20201031				KR-LG8			62	1			KR-LG8
+5		CAJACT-002031	CAJACT-002031		20201031	20201031				KR-LG8			62	1			KR-LG8
+5		CAJACT-002032	CAJACT-002032		20201031	20201031				KR-LG8			62	1			KR-LG8
+5		CAJACT-002033	CAJACT-002033		20201031	20201031				KR-LG8			62	1			KR-LG8
+5		CAJACT-002034	CAJACT-002034		20201031	20201031				KR-LG8			62	1			KR-LG8
+5		CAJACT-002040	CAJACT-002040		20201031	20201031				KR-X8D			63	1			KR-X8D
+5		CAJACT-002041	CAJACT-002041		20201031	20201031				KR-X8D			63	1			KR-X8D
+5		CAJACT-002042	CAJACT-002042		20201031	20201031				KR-X8D			63	1			KR-X8D
+5		CAJACT-002049	CAJACT-002049		20201031	20201031				AX-SPA804R			64	1			AX-SPA804R
+5		CAJACT-002050	CAJACT-002050		20201031	20201031				AX-SPA804R			64	1			AX-SPA804R
+5		CAJACT-002054	CAJACT-002054		20201031	20201031				AX-SPA806BR			65	1			AX-SPA806BR
+5		CAJACT-002056	CAJACT-002056		20201031	20201031				KR-L210			66	1			KR-L210
+5		CAJACT-002057	CAJACT-002057		20201031	20201031				KR-L210			66	1			KR-L210
+5		CAJACT-002221	CAJACT-002221		20201031	20201031				KR-L206			67	1			KR-L206
+5		CAJACT-002222	CAJACT-002222		20201031	20201031				KR-L206			67	1			KR-L206
+5		CAJACT-002223	CAJACT-002223		20201031	20201031				KR-L206			67	1			KR-L206
+5		CAJACT-002224	CAJACT-002224		20201031	20201031				KR-L206			67	1			KR-L206
+5		CAJACT-002228	CAJACT-002228		20201031	20201031				AX-SPA1004B			68	1			AX-SPA1004B
+5		CAJACT-002229	CAJACT-002229		20201031	20201031				AX-SPA1004B			68	1			AX-SPA1004B
+5		CAJACT-002230	CAJACT-002230		20201031	20201031				AX-SPA1004B			68	1			AX-SPA1004B
+5		CAJACT-002234	CAJACT-002234		20201031	20201031				AX-SPA1527-12V OF			69	1			AX-SPA1527-12V OF
+5		CAJACT-002236	CAJACT-002236		20201031	20201031				AX-SPA151AU OF			70	1			AX-SPA151AU OF
+5		CAJACT-002237	CAJACT-002237		20201031	20201031				AX-SPA153UDI OF			71	1			AX-SPA153UDI OF
+5		CAJACT-002300	CAJACT-002300		20201031	20201031				OPTIMUS1504			72	1			OPTIMUS1504
+5		CAJACT-002304	CAJACT-002304		20201031	20201031				AX-SPA804B			73	1			AX-SPA804B
+5		CAJPAS-000037	CAJPAS-000037		20201031	20201031				AX-SP1204			74	1			AX-SP1204
+5		CAJPAS-000114	CAJPAS-000114		20201031	20201031				AX-WF215			75	1			AX-WF215
+5		CAJPAS-000664	CAJPAS-000664		20201031	20201031				AX-WX1570P OF			76	1			AX-WX1570P OF
+5		CAJPAS-000853	CAJPAS-000853		20201031	20201031				OPTIMUS1504 PASSIVE			77	1			OPTIMUS1504 PASSIVE
+5		CAJPAS-000857	CAJPAS-000857		20201031	20201031				SPA-550BK			78	1			SPA-550BK
+5		CAJPAS-000930	CAJPAS-000930		20201031	20201031				SPA-551BK			79	1			SPA-551BK
+5		CAJPAS-001096	CAJPAS-001096		20201031	20201031				SPA-565WH			80	1			SPA-565WH
+5		CAJPAS-001244	CAJPAS-001244		20201031	20201031				SPA-565BK			81	1			SPA-565BK
+5		CAJPAS-001245	CAJPAS-001245		20201031	20201031				SPA-650WH			82	1			SPA-650WH
+5		CAJPAS-001246	CAJPAS-001246		20201031	20201031				SPA-650BK			83	1			SPA-650BK
+5		CAJPAS-001285	CAJPAS-001285		20201031	20201031				SPA-651BK			84	1			SPA-651BK
+5		COMBO-000001	COMBO-000001		20201031	20201031				COMBO 1504B			85	1			COMBO 1504B
+5		COMBO-000002	COMBO-000002		20201031	20201031				COMBO 1504B			85	1			COMBO 1504B
+5		CONPAS-000001	CONPAS-000001		20201031	20201031				DMX24.4 OF			86	1			DMX24.4 OF
+5		CONPAS-000002	CONPAS-000002		20201031	20201031				PV14AT			87	1			PV14AT
+5		CONPAS-000009	CONPAS-000009		20201031	20201031				PV6BT			88	1			PV6BT
+5		CONPAS-000198	CONPAS-000198		20201031	20201031				MXi.3BT			89	1			MXi.3BT
+5		CONPAS-000199	CONPAS-000199		20201031	20201031				MX.6V2			90	1			MX.6V2
+5		CONPAS-000207	CONPAS-000207		20201031	20201031				PV6 USB OF			91	1			PV6 USB OF
+5		CONT-000001	CONT-000001		20201031	20201031				4769250			92	1			4769250
+5		CONT-000003	CONT-000003		20201031	20201031				4780773			93	1			4780773
+5		CROS-000001	CROS-000001		20201031	20201031				TXO-234MKII			94	1			TXO-234MKII
+5		CROS-000002	CROS-000002		20201031	20201031				PV35XO BLK			95	1			PV35XO BLK
+5		DRIV-000001	DRIV-000001		20201031	20201031				REP-M-32			96	1			REP-M-32
+5		DRIV-000002	DRIV-000002		20201031	20201031				REP-M-32			96	1			REP-M-32
+5		ECUA-000020	ECUA-000020		20201031	20201031				PV231EQ			97	1			PV231EQ
+5		ECUA-000021	ECUA-000021		20201031	20201031				QF131 (BLK)			98	1			QF131 (BLK)
+5		GUIT-000097	GUIT-000097		20201031	20201031				AD810 BKS			99	1			AD810 BKS
+5		GUIT-000316	GUIT-000316		20201031	20201031				G200DX NAT			100	1			G200DX NAT
+5		GUIT-000339	GUIT-000339		20201031	20201031				G110 2T			101	1			G110 2T
+5		GUIT-000371	GUIT-000371		20201031	20201031				KX500MS SDG			102	1			KX500MS SDG
+5		GUIT-000427	GUIT-000427		20201031	20201031				M600 T BB			103	1			M600 T BB
+5		GUIT-000534	GUIT-000534		20201031	20201031				SUNSET NYELECTRIC NA			104	1			SUNSET NYELECTRIC NA
+5		GUIT-000541	GUIT-000541		20201031	20201031				SUNSET NYELECTRIC BK			105	1			SUNSET NYELECTRIC BK
+5		GUIT-000572	GUIT-000572		20201031	20201031				X-1 WH			106	1			X-1 WH
+5		GUIT-000693	GUIT-000693		20201031	20201031				MR500E BR			107	1			MR500E BR
+5		GUIT-000725	GUIT-000725		20201031	20201031				NDX20 NAT			108	1			NDX20 NAT
+5		GUIT-000751	GUIT-000751		20201031	20201031				SFX-AB NAT			109	1			SFX-AB NAT
+5		GUIT-000812	GUIT-000812		20201031	20201031				SFX-ME NAT			110	1			SFX-ME NAT
+5		GUIT-000829	GUIT-000829		20201031	20201031				SFX-ME BKS			111	1			SFX-ME BKS
+5		GUIT-000977	GUIT-000977		20201031	20201031				AF510E BKS			112	1			AF510E BKS
+5		GUIT-001007	GUIT-001007		20201031	20201031				AD810E OP			113	1			AD810E OP
+5		GUIT-001063	GUIT-001063		20201031	20201031				C5CE-A-U			114	1			C5CE-A-U
+5		GUIT-001071	GUIT-001071		20201031	20201031				AC160CFTL NAT			115	1			AC160CFTL NAT
+5		GUIT-001072	GUIT-001072		20201031	20201031				AC160CFTL NAT			115	1			AC160CFTL NAT
+5		GUIT-001087	GUIT-001087		20201031	20201031				EACT42S-A-U			116	1			EACT42S-A-U
+5		GUIT-001106	GUIT-001106		20201031	20201031				AC160CF NAT			117	1			AC160CF NAT
+5		GUIT-001156	GUIT-001156		20201031	20201031				CEC1 NAT			118	1			CEC1 NAT
+5		GUIT-001167	GUIT-001167		20201031	20201031				AC250CF NAT			119	1			AC250CF NAT
+5		LINARR-000034	LINARR-000034		20201031	20201031				EVENT208A 115V			120	1			EVENT208A 115V
+5		MIC-000009	MIC-000009		20201031	20201031				SVX24US/PG58			121	1			SVX24US/PG58
+5		MIC-000010	MIC-000010		20201031	20201031				SVX14US/PG30			122	1			SVX14US/PG30
+5		MIC-000012	MIC-000012		20201031	20201031				TWM-582			123	1			TWM-582
+5		MIC-000020	MIC-000020		20201031	20201031				TMW-U2.100R			124	1			TMW-U2.100R
+5		MON-000006	MON-000006		20201031	20201031				ACTION M-12A 115V			125	1			ACTION M-12A 115V
+5		MON-000023	MON-000023		20201031	20201031				KS15CMA			126	1			KS15CMA
+5		PAD-000001	PAD-000001		20201031	20201031				12 CRASH CYMBAL PAD			127	1			12 CRASH CYMBAL PAD
+5		PAD-000002	PAD-000002		20201031	20201031				12 CRASH CYMBAL PAD			127	1			12 CRASH CYMBAL PAD
+5		PAD-000003	PAD-000003		20201031	20201031				8 TOM PAD			128	1			8 TOM PAD
+5		PAR-000089	PAR-000089		20201031	20201031				15MI			129	1			15MI
+5		PAR-000097	PAR-000097		20201031	20201031				18LX			130	1			18LX
+5		PAR-000098	PAR-000098		20201031	20201031				18LX			130	1			18LX
+5		PAR-000099	PAR-000099		20201031	20201031				18LX			130	1			18LX
+5		PAR-000100	PAR-000100		20201031	20201031				18LX			130	1			18LX
+5		PED-000004	PED-000004		20201031	20201031				DRIVE CORE DELUXE			131	1			DRIVE CORE DELUXE
+5		PED-000008	PED-000008		20201031	20201031				FUZZ			132	1			FUZZ
+5		PED-000009	PED-000009		20201031	20201031				FUZZ			132	1			FUZZ
+5		PED-000015	PED-000015		20201031	20201031				LOOP CORE DELUXE			133	1			LOOP CORE DELUXE
+5		PED-000045	PED-000045		20201031	20201031				TIME CORE			134	1			TIME CORE
+5		PED-000057	PED-000057		20201031	20201031				MFX-10			135	1			MFX-10
+5		PED-000058	PED-000058		20201031	20201031				MG-100			136	1			MG-100
+5		PED-000059	PED-000059		20201031	20201031				MG-100			136	1			MG-100
+5		PED-000070	PED-000070		20201031	20201031				MG-20			137	1			MG-20
+5		PED-000075	PED-000075		20201031	20201031				CERBERUS			138	1			CERBERUS
+5		PIA-000001	PIA-000001		20201031	20201031				KA150 SR			139	1			KA150 SR
+5		PIA-000002	PIA-000002		20201031	20201031				KA150 SR			139	1			KA150 SR
+5		PIA-000003	PIA-000003		20201031	20201031				B1SP			140	1			B1SP
+5		POT-000008	POT-000008		20201031	20201031				PVI3000			141	1			PVI3000
+5		POT-000040	POT-000040		20201031	20201031				TRX2500			142	1			TRX2500
+5		POT-000064	POT-000064		20201031	20201031				TRX4000			143	1			TRX4000
+5		POT-000065	POT-000065		20201031	20201031				TRX4000			143	1			TRX4000
+5		REC-000001	REC-000001		20201031	20201031				KRX			144	1			KRX
+5		REC-000002	REC-000002		20201031	20201031				KRX			144	1			KRX
+5		REC-000003	REC-000003		20201031	20201031				KRX			144	1			KRX
+5		REC-000004	REC-000004		20201031	20201031				KRX			144	1			KRX
+5		REP-000001	REP-000001		20201031	20201031				REP-MP3-PD15U			145	1			REP-MP3-PD15U
+5		REP-000002	REP-000002		20201031	20201031				REP-MP3-PD15U			145	1			REP-MP3-PD15U
+5		REP-000003	REP-000003		20201031	20201031				REP-MP3-PD15U			145	1			REP-MP3-PD15U
+5		SINT-000001	SINT-000001		20201031	20201031				KROME61			146	1			KROME61
+5		SUBBAJ-00004	SUBBAJ-00004		20201031	20201031				ACTION18A 115V			147	1			ACTION18A 115V
+5		SUBBAJ-00018	SUBBAJ-00018		20201031	20201031				KS15A SUB			148	1			KS15A SUB
+5		TAM-000001	TAM-000001		20201031	20201031				CG HD10N OF			149	1			CG HD10N OF
+5		TAM-000002	TAM-000002		20201031	20201031				CG HD10N OF			149	1			CG HD10N OF
+5		TAR-000001	TAR-000001		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000002	TAR-000002		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000003	TAR-000003		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000004	TAR-000004		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000005	TAR-000005		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000006	TAR-000006		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000007	TAR-000007		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000008	TAR-000008		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000009	TAR-000009		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000010	TAR-000010		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000011	TAR-000011		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000012	TAR-000012		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000013	TAR-000013		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TAR-000014	TAR-000014		20201031	20201031				CS-LAN			150	1			CS-LAN
+5		TRANS-0004	TRANS-0004		20201031	20201031				KTX			151	1			KTX
+5		TRANS-0005	TRANS-0005		20201031	20201031				KTX			151	1			KTX
+5		TRANS-0006	TRANS-0006		20201031	20201031				KTX			151	1			KTX
+5		TRANS-0007	TRANS-0007		20201031	20201031				KTX			151	1			KTX
+5		VAL-000001	VAL-000001		20201031	20201031				VALVULA/EV060H			152	1			VALVULA/EV060H
+5		VAL-000002	VAL-000002		20201031	20201031				VALVULA/EV060H			152	1			VALVULA/EV060H
+5		VAL-000003	VAL-000003		20201031	20201031				VALVULA/EV060H			152	1			VALVULA/EV060H
+5		VAL-000004	VAL-000004		20201031	20201031				VALVULA/EV060H			152	1			VALVULA/EV060H
+5		VAL-000005	VAL-000005		20201031	20201031				VALVULA/EV060H			152	1			VALVULA/EV060H
+5		VIO-000001	VIO-000001		20201031	20201031				TU-V012WM			153	1			TU-V012WM
+5		VIO-000002	VIO-000002		20201031	20201031				TU-V012WM			153	1			TU-V012WM
+5		VIO-000003	VIO-000003		20201031	20201031				TU-V012WM			153	1			TU-V012WM
+5		VIO-000004	VIO-000004		20201031	20201031				TU-V012WM			153	1			TU-V012WM
+5		VIO-000005	VIO-000005		20201031	20201031				TU-V012WM			153	1			TU-V012WM
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	
+																	

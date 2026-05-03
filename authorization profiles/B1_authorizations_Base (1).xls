@@ -1,0 +1,1090 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>7050</WindowHeight>
+  <WindowWidth>19200</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Bold="1"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s63">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="1"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s64">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="2"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s65">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="3"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s66">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom" ss:Indent="4"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s70">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"
+    ss:Bold="1"/>
+   <Interior ss:Color="#D0CECE" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="B1 Authorizations">
+  <Table ss:ExpandedColumnCount="9" ss:ExpandedRowCount="247" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="60" ss:DefaultRowHeight="14.5">
+   <Column ss:Width="300"/>
+   <Column ss:AutoFitWidth="0" ss:Width="100" ss:Span="7"/>
+   <Row ss:Height="13" ss:StyleID="s62">
+    <Cell><Data ss:Type="String">Áreas funcionales</Data></Cell>
+    <Cell><Data ss:Type="String">apita</Data></Cell>
+   </Row>
+   <Row ss:Height="13" ss:StyleID="s62">
+    <Cell><Data ss:Type="String"></Data></Cell>
+    <Cell><Data ss:Type="String">Adrián Pita</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s70">
+    <Cell><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">Varias autorizaciones</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Enviar mensaje</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Diseñador de layouts de impresión</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Modificar informe estándar</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Layout de impresión de consulta...</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Parametrizaciones de formulario</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tratar tabla documentos</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Acceso a cuentas confidenciales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Saldos de cuentas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Saldos SN</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Acceso a datos ocultos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Número de ID de empleado</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Número de pasaporte de empleado</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Número de ID de socio de negocios 2</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Texto sin formato</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MS EXCEL</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">MS WORD</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Status de período: Desbloqueado excepto ventas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Status de período: Cierre del período</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Lanzar aplicación...</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Arrastrar y vincular</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ventas - Clientes</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Compras - Proveedores</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Socios de negocios</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Inventario</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Producción</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Finanzas</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Renombrar campos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Log de acceso</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Log de modificaciones...</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Editar IU de formulario...</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Organizar menú de usuario</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cancelar documentos de marketing al generar documentos de cancel</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cancelar otros documentos</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Cerrar documento</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Modificar denominadores de campo</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Numeración manual de documentos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Mapa de relaciones</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Traducciones</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Fecha futura de contabilización en documentos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Grabación en log</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Electronic File Manager</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Activación de clientes para la base de datos SAP HANA</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Aplicaciones para la versión de SAP HANA</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Desactivar verificación de permiso para DI API</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Herramientas personalización</Data></Cell>
+    <Cell><Data ss:Type="String">Varias autorizaciones</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Valores definidos por usuario: Definición</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Campos definidos por usuario: Gestión</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Ejecutar comandos</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Registro de objeto definido por usuario</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row ss:StyleID="s70">
+    <Cell><Data ss:Type="String">Gestión</Data></Cell>
+    <Cell><Data ss:Type="String">Varias autorizaciones</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Tipos de cambio e índices</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Inicialización sistema</Data></Cell>
+    <Cell><Data ss:Type="String">Varias autorizaciones</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Detalles sociedad</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Permitir liberación de stock sin costos de artículos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Enmascarar número de tarjeta de crédito</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Parametrizaciones generales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Flujo de caja</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Parametrizaciones de declaración fiscal</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Servicios de mapas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Período contable</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Modificar status del período</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Numeración de documentos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Parametrizaciones de documento</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pago en defecto/exceso máximo</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Permitir contabilización futura</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Parametrizaciones de impresión</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Alias de menú para búsqueda</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Estruct.menú</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Saldos iniciales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Balance apertura cuentas mayor</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Balance apertura socios de negocios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Serie de numeración</Data></Cell>
+    <Cell><Data ss:Type="String">Varias autorizaciones</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bloqueo series</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 1</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 2</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 3</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 4</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 5</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 6</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 7</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 8</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 9</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Serie: Nº grupos 10</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Copiar desde el grupo de series no autorizadas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Opciones de correo electrónico</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Tareas de implementación</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tareas de implementación</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Proyecto de implementación</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Vista previa de texto de quick info</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Definiciones</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">General</Data></Cell>
+    <Cell><Data ss:Type="String">Varias autorizaciones</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Usuarios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Modificar Mi configuración personal</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Opciones de usuario</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">La cuenta de usuario de Microsoft Windows no existe o el usuario</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Empleados del depto. de ventas y encargados de compras</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Territorios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grupos de comisiones</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Texto predefinido</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Idiomas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Enlaces de campos de referencia</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gastos adicionales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Preferencias de mensajes</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gestión de informes y de layout</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gestor de panel</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">KPI de panel</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Configuración de Crystal Server</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Enlaces de SAP</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Finanzas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tratar catálogo de cuentas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Determinación de cuentas de mayor</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Determinación de cuentas de mayor</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Criterios de determinación - Recursos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Segmentación de cuenta</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Monedas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Índices</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Códigos de transacción</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Proyectos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Indicadores de período</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Clientes dudosos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Impuesto</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Determinación de indicador de impuestos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Categorías fiscales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Clases de impuesto</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Códigos fiscales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Retención de impuestos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Partidas individuales de flujo de caja</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Factores de indicador de rendimiento clave financiero</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tipos de gasto</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Oportunidades</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Etapas de oportunidad</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Socios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Competidores</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Relaciones</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Ventas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Lista de reglas de verificación ATP</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Compras</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Precio de entrega</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Socios de Negocios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Países </Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Formatos dirección</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grupos de clientes</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grupos de proveedores</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Definir propiedades de socios de negocios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Prioridades de socios de negocios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Niveles de reclamación</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Condiciones de reclamación</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Condiciones de pago</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Descuento por pronto pago </Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Especificar gastos para atraso de pagos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bloqueos de pago</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grupo objetivo</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Agentes</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Gestión de Bancos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Bancos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Cuentas de banco propio</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tarjetas de crédito</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Pago con tarjeta de crédito</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Especificar métodos pago de tarjeta crédito</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Proveedores Crédito</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Códigos de asignación de gastos bancarios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Métodos de pago</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Inventario</Data></Cell>
+    <Cell><Data ss:Type="String">Varias autorizaciones</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grupos de artículos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Propiedades del artículo</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Almacenes</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Activar y desactivar ubicaciones</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Active y desactive almacén</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Unidades de medida</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grupos de unidades de medida</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Longitud y ancho</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Peso</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grupos de aduanas</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Fabricantes</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Formas de envío</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Localidades</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ciclos inventario</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Determinación de recuento de ciclo</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Clases de paquetes</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ubicaciones</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Activación de campos de ubicación</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Códigos de atributos de ubicación</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Códigos de subnivel para almacén</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Gestión de códigos de subnivel de almacén</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Recursos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Grupos de recursos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Propiedades de recursos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Servicio</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Modelos de contrato</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Colas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Gestión de proyectos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Etapas - Configuración</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Tipo de actividades - Configuración</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Producción</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Etapas de ruta</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Importación/Exportación de datos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Importación datos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Importar de Excel</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Importar transacciones de SAP Business One</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Asistente de importación de plantilla financiera</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Importar totales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Exportación de datos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Utilidades</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Cierre del período</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Actualizar informe de control</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Verificar numeración de documento: Criterios de selección</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Verif.numeración folio</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Asistente para el archivo de datos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ejecución del asistente de archivo de datos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Asistente de depuración de datos maestros</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Limpieza de logs de cambios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Ejecutar limpieza de logs de cambio</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Convertidor manual de series de datos maestros</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Restablecer</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Restablecer cuenta de mayor y saldos de socios de negocios</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Restablecer saldos de artículo</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Restablecer archivo de numeración</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Restablecer informes de sistema</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Restablecer stored procedures</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Modelo de configuración de la IU</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Clientes conectados</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Herramientas de protección de datos</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Gestión de datos personales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Asistente de gestión de datos personales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Informe de datos personales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Limpieza de datos personales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Bloquear datos personales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Desbloquear datos personales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s66"><Data ss:Type="String">Determinar personas físicas</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s65"><Data ss:Type="String">Visualizar datos personales confidenciales</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Proceso de aprobación</Data></Cell>
+    <Cell><Data ss:Type="String">Varias autorizaciones</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Etapas de autorización</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Modelos de autorización</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Informe status de autorización</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Informe decisión de autorización</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Workflow</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Instancia de workflow</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Lista de trabajo de workflow</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Gestor de Workflow</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Supervisión de workflow</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s64"><Data ss:Type="String">Modelo de Workflow</Data></Cell>
+    <Cell><Data ss:Type="String">Autorización total</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Gestiones de alarma</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+   <Row>
+    <Cell ss:StyleID="s63"><Data ss:Type="String">Configuración de integración de BI OnDemand</Data></Cell>
+    <Cell><Data ss:Type="String">Falta autorización</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Print>
+    <ValidPrinterInfo/>
+    <PaperSizeIndex>9</PaperSizeIndex>
+    <VerticalResolution>0</VerticalResolution>
+   </Print>
+   <Selected/>
+   <Panes>
+    <Pane>
+     <Number>3</Number>
+     <ActiveRow>10</ActiveRow>
+     <ActiveCol>4</ActiveCol>
+    </Pane>
+   </Panes>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+ <x:ExcelWorkbook/>
+</Workbook>

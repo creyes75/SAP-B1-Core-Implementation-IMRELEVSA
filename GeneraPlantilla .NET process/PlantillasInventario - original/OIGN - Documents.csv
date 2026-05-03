@@ -1,0 +1,940 @@
+DocNum;DocEntry;DocType;HandWritten;Printed;DocDate;DocDueDate;CardCode;CardName;Address;NumAtCard;DocTotal;AttachmentEntry;DocCurrency;DocRate;Reference1;Reference2;Comments;JournalMemo;PaymentGroupCode;DocTime;SalesPersonCode;TransportationCode;Confirmed;ImportFileNum;SummeryType;ContactPersonCode;ShowSCN;Series;TaxDate;PartialSupply;DocObjectCode;ShipToCode;Indicator;FederalTaxID;DiscountPercent;PaymentReference;DocTotalFc;Form1099;Box1099;RevisionPo;RequriedDate;CancelDate;BlockDunning;Pick;PaymentMethod;PaymentBlock;PaymentBlockEntry;CentralBankIndicator;MaximumCashDiscount;Project;ExemptionValidityDateFrom;ExemptionValidityDateTo;WareHouseUpdateType;Rounding;ExternalCorrectedDocNum;InternalCorrectedDocNum;DeferredTax;TaxExemptionLetterNum;AgentCode;NumberOfInstallments;ApplyTaxOnFirstInstallment;VatDate;DocumentsOwner;FolioPrefixString;FolioNumber;DocumentSubType;BPChannelCode;BPChannelContact;Address2;PayToCode;ManualNumber;UseShpdGoodsAct;IsPayToBank;PayToBankCountry;PayToBankCode;PayToBankAccountNo;PayToBankBranch;BPL_IDAssignedToInvoice;DownPayment;ReserveInvoice;LanguageCode;TrackingNumber;PickRemark;ClosingDate;SequenceCode;SequenceSerial;SeriesString;SubSeriesString;SequenceModel;UseCorrectionVATGroup;DownPaymentAmount;DownPaymentPercentage;DownPaymentType;DownPaymentAmountSC;DownPaymentAmountFC;VatPercent;ServiceGrossProfitPercent;OpeningRemarks;ClosingRemarks;RoundingDiffAmount;ControlAccount;InsuranceOperation347;ArchiveNonremovableSalesQuotation;GTSChecker;GTSPayee;ExtraMonth;ExtraDays;CashDiscountDateOffset;StartFrom;NTSApproved;ETaxWebSite;ETaxNumber;NTSApprovedNumber;EDocGenerationType;EDocSeries;EDocNum;EDocExportFormat;EDocStatus;EDocErrorCode;EDocErrorMessage;DownPaymentStatus;GroupSeries;GroupNumber;GroupHandWritten;ReopenOriginalDocument;ReopenManuallyClosedOrCanceledDocument;CreateOnlineQuotation;POSEquipmentNumber;POSManufacturerSerialNumber;POSCashierNumber;ApplyCurrentVATRatesForDownPaymentsToDraw;ClosingOption;SpecifiedClosingDate;OpenForLandedCosts;RelevantToGTS;AnnualInvoiceDeclarationReference;Supplier;Releaser;Receiver;BlanketAgreementNumber;IsAlteration;AssetValueDate;DocumentDelivery;AuthorizationCode;StartDeliveryDate;StartDeliveryTime;EndDeliveryDate;EndDeliveryTime;VehiclePlate;ATDocumentType;ElecCommStatus;ReuseDocumentNum;ReuseNotaFiscalNum;PrintSEPADirect;FiscalDocNum;POSDailySummaryNo;POSReceiptNo;PointOfIssueCode;Letter;FolioNumberFrom;FolioNumberTo;InterimType;RelatedType;RelatedEntry;SAPPassport;DocumentTaxID;DateOfReportingControlStatementVAT;ReportingSectionControlStatementVAT;ExcludeFromTaxReportControlStatementVAT;POS_CashRegister;ShipFrom;CommissionTrade;CommissionTradeReturn;UseBillToAddrToDetermineTax;Cig;Cup;U_SER_EST;U_SER_PE;U_NUM_AUTOR;U_COD_ST;U_SER_EST_FR;U_SER_PEFR;U_NUM_AUT_FR;U_NUM_FAC_REL;U_COMP_RET;U_SERIE_RET;U_NUM_AUT_RET;U_FEC_INI_TRAS;U_FEC_FIN_TRAS;U_fecha_emi_doc_rel;U_NUM_DECLAR_ADU;U_MOT_TRASLADO;U_PUNTO_PART;U_NUM_GUIA;U_CORRELATIVO;U_VERIFICADOR;U_TRANSPORTE;U_TRANSPORTISTA;U_FECHA_EMBARQUE;U_Exx_IP_Pago;U_Exx_IP_Pais;U_Exx_IP_DobleTrib;U_Exx_IP_SujetRet_NL;U_Exx_FechaRet;U_Exx_Rembolso;U_Exx_FPagxDoc;U_TIP_DOC_APLIC;U_tipo_export;U_tipo_comprob;U_DOC_DECLARABLE;U_DISTRITO_ADU;U_REFRENDO_ANIO;U_REFRENDO_REG;U_VALOR_FOB;U_NUM_DOC_TRANSP;U_NUM_FUE;U_MOT_NC;U_MOT_ND;U_EXX_FE_TIPCOM;U_EXX_FE_TIPAMB;U_EXX_FE_CODNUM;U_EXX_FE_TIPEMI;U_EXX_FE_DIFVER;U_EXX_FE_FECAUT;U_Exx_Din_Cons;U_Exx_FE_Paisdestin;U_Exx_pagoRegFis;U_Exx_fechaPagoDiv;U_Exx_imRentaSoc;U_Exx_anioUtDiv;U_Exx_numCajBan;U_Exx_precCajBan;U_EXX_CAIM;U_EXX_Hora_Lleg;U_EXX_Hora_Sal;U_Exx_doc_compensac;U_EXX_FPAGO_VENTAS;U_EXX_FACT_NEG;U_EXX_FPAGO_COMPRAS;U_EXX_COMPENSADO;U_EXX_VAL_COMP;U_Exx_DenoFiscal;U_Exx_ingFueGra_IR;U_Exx_Paraiso_Fis;U_Exx_TipIngExt;U_Exx_TipRegFis;U_Exx_ValoImpExt;U_Exx_Mot;U_MotivoTraslado;U_EXX_FE_DESERR;U_EXX_FE_CODERR;U_EXX_FE_Estado;U_EXX_FE_ClaAcc;U_EXX_Serie_Guia;U_EXX_FE_PdfCreado;U_EXX_FE_PdfError;U_EXX_FE_MailEnviado;U_EXX_FE_MailError;U_EXX_FE_Reemb;U_Exx_FE_ComExt;U_Exx_FE_IncoTermFac;U_Exx_FE_LugIncoTerm;U_Exx_FE_PaisOrigen;U_Exx_FE_PuertoEmb;U_Exx_FE_PuertoDest;U_Exx_FE_Paisadquis;U_Exx_FE_Incotermto;U_Exx_FE_Fleteinter;U_Exx_FE_Segurointe;U_Provincia;U_Ciudad;U_Trayecto;U_Regional;U_HorarioEntrega;U_Productos;U_EnvioDomicilio;U_RetiroOficina;U_ListaSN;U_TransVelasco;U_DirAlmDestino;U_Ruta;U_DireccionFinal;U_InfoGuia;U_InfoFactura;U_TipoCobro;U_MotivoAnulacion;U_GrupoCliente;U_PesoTotal
+DocNum;DocEntry;DocType;Handwrtten;Printed;DocDate;DocDueDate;CardCode;CardName;Address;NumAtCard;DocTotal;AtcEntry;DocCur;DocRate;Ref1;Ref2;Comments;JrnlMemo;GroupNum;DocTime;SlpCode;TrnspCode;Confirmed;ImportEnt;SummryType;CntctCode;ShowSCN;Series;TaxDate;PartSupply;ObjType;ShipToCode;Indicator;LicTradNum;DiscPrcnt;PaymentRef;DocTotalFC;Form1099;Box1099;RevisionPo;ReqDate;CancelDate;BlockDunn;Pick;PeyMethod;PayBlock;PayBlckRef;CntrlBnk;MaxDscn;Project;FromDate;ToDate;UpdInvnt;Rounding;CorrExt;CorrInv;DeferrTax;LetterNum;AgentCode;Installmnt;VATFirst;VatDate;OwnerCode;FolioPref;FolioNum;DocSubType;BPChCode;BPChCntc;Address2;PayToCode;ManualNum;UseShpdGd;IsPaytoBnk;BnkCntry;BankCode;BnkAccount;BnkBranch;BPLId;DpmPrcnt;isIns;LangCode;TrackNo;PickRmrk;ClsDate;SeqCode;Serial;SeriesStr;SubStr;Model;UseCorrVat;DpmAmnt;DpmPrcnt;Posted;DpmAmntSC;DpmAmntFC;VatPercent;SrvGpPrcnt;Header;Footer;RoundDif;CtlAccount;InsurOp347;IgnRelDoc;Checker;Payee;ExtraMonth;ExtraDays;CdcOffset;PayDuMonth;NTSApprov;NTSWebSite;NTSeTaxNo;NTSApprNo;EDocGenTyp;ESeries;EDocNum;EDocExpFrm;EDocStatus;EDocErrCod;EDocErrMsg;DpmStatus;PQTGrpSer;PQTGrpNum;PQTGrpHW;ReopOriDoc;ReopManCls;OnlineQuo;POSEqNum;POSManufSN;POSCashN;DpmAsDscnt;ClosingOpt;SpecDate;OpenForLaC;GTSRlvnt;AnnInvDecR;Supplier;Releaser;Receiver;AgrNo;IsAlt;AssetDate;DocDlvry;AuthCode;StDlvDate;StDlvTime;EndDlvDate;EndDlvTime;VclPlate;AtDocType;ElCoStatus;IsReuseNum;IsReuseNFN;PrintSEPA;FiscDocNum;ZrdAbs;POSRcptNo;PTICode;Letter;FolNumFrom;FolNumTo;InterimTyp;RelatedTyp;RelatedEnt;SAPPassprt;DocTaxID;DateReport;RepSection;ExclTaxRep;PosCashReg;ShipToCode;ComTrade;ComTradeRt;UseBilAddr;CIG;CUP;U_SER_EST;U_SER_PE;U_NUM_AUTOR;U_COD_ST;U_SER_EST_FR;U_SER_PEFR;U_NUM_AUT_FR;U_NUM_FAC_REL;U_COMP_RET;U_SERIE_RET;U_NUM_AUT_RET;U_FEC_INI_TRAS;U_FEC_FIN_TRAS;U_fecha_emi_doc_rel;U_NUM_DECLAR_ADU;U_MOT_TRASLADO;U_PUNTO_PART;U_NUM_GUIA;U_CORRELATIVO;U_VERIFICADOR;U_TRANSPORTE;U_TRANSPORTISTA;U_FECHA_EMBARQUE;U_Exx_IP_Pago;U_Exx_IP_Pais;U_Exx_IP_DobleTrib;U_Exx_IP_SujetRet_NL;U_Exx_FechaRet;U_Exx_Rembolso;U_Exx_FPagxDoc;U_TIP_DOC_APLIC;U_tipo_export;U_tipo_comprob;U_DOC_DECLARABLE;U_DISTRITO_ADU;U_REFRENDO_ANIO;U_REFRENDO_REG;U_VALOR_FOB;U_NUM_DOC_TRANSP;U_NUM_FUE;U_MOT_NC;U_MOT_ND;U_EXX_FE_TIPCOM;U_EXX_FE_TIPAMB;U_EXX_FE_CODNUM;U_EXX_FE_TIPEMI;U_EXX_FE_DIFVER;U_EXX_FE_FECAUT;U_Exx_Din_Cons;U_Exx_FE_Paisdestin;U_Exx_pagoRegFis;U_Exx_fechaPagoDiv;U_Exx_imRentaSoc;U_Exx_anioUtDiv;U_Exx_numCajBan;U_Exx_precCajBan;U_EXX_CAIM;U_EXX_Hora_Lleg;U_EXX_Hora_Sal;U_Exx_doc_compensac;U_EXX_FPAGO_VENTAS;U_EXX_FACT_NEG;U_EXX_FPAGO_COMPRAS;U_EXX_COMPENSADO;U_EXX_VAL_COMP;U_Exx_DenoFiscal;U_Exx_ingFueGra_IR;U_Exx_Paraiso_Fis;U_Exx_TipIngExt;U_Exx_TipRegFis;U_Exx_ValoImpExt;U_Exx_Mot;U_MotivoTraslado;U_EXX_FE_DESERR;U_EXX_FE_CODERR;U_EXX_FE_Estado;U_EXX_FE_ClaAcc;U_EXX_Serie_Guia;U_EXX_FE_PdfCreado;U_EXX_FE_PdfError;U_EXX_FE_MailEnviado;U_EXX_FE_MailError;U_EXX_FE_Reemb;U_Exx_FE_ComExt;U_Exx_FE_IncoTermFac;U_Exx_FE_LugIncoTerm;U_Exx_FE_PaisOrigen;U_Exx_FE_PuertoEmb;U_Exx_FE_PuertoDest;U_Exx_FE_Paisadquis;U_Exx_FE_Incotermto;U_Exx_FE_Fleteinter;U_Exx_FE_Segurointe;U_Provincia;U_Ciudad;U_Trayecto;U_Regional;U_HorarioEntrega;U_Productos;U_EnvioDomicilio;U_RetiroOficina;U_ListaSN;U_TransVelasco;U_DirAlmDestino;U_Ruta;U_DireccionFinal;U_InfoGuia;U_InfoFactura;U_TipoCobro;U_MotivoAnulacion;U_GrupoCliente;U_PesoTotal
+"Description: Document Number
+Type: string
+Field Length: 11
+This field is mandatory";"Description: Numerator
+Type: long
+Field Length: 11
+";"Description: Document Type
+Type: enum
+Valid Values: dDocument_Items,dDocument_Service
+";"Description: Manual Numbering
+Type: string
+Field Length: 1
+";"Description: Printed
+Type: string
+Field Length: 1
+";"Description: Posting Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Due Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Revenue Account
+Type: string
+Field Length: 15
+Related Table: OCRD
+This field is mandatory";"Description: Customer/Vendor Name
+Type: string
+Field Length: 100
+";"Description: Bill to
+Type: string
+Field Length: 254
+";"Description: Customer/Vendor Ref. No.
+Type: string
+Field Length: 100
+";"Description: Document Total
+Type: double
+Field Length: 40
+";"Description: Attachment Entry
+Type: long
+Field Length: 11
+";"Description: Document Currency
+Type: string
+Field Length: 3
+Related Table: OCRN
+";"Description: Document Rate
+Type: double
+Field Length: 40
+";"Description: Reference 1
+Type: string
+Field Length: 11
+";"Description: Reference 2
+Type: string
+Field Length: 11
+";"Description: Remarks
+Type: string
+Field Length: 254
+";"Description: Journal Remarks
+Type: string
+Field Length: 50
+";"Description: Price List
+Type: long
+Field Length: 6
+Related Table: OCTG
+";"Description: Generation Time
+Type: long
+Field Length: 6
+";"Description: Sales Employee
+Type: long
+Field Length: 11
+Related Table: OSLP
+";"Description: Delivery Method
+Type: long
+Field Length: 6
+Related Table: OSHP
+";"Description: Confirmed
+Type: string
+Field Length: 1
+";"Description: Landed Costs Internal ID
+Type: long
+Field Length: 11
+";"Description: Summary Method
+Type: string
+Field Length: 1
+";"Description: Contact Person
+Type: long
+Field Length: 11
+Related Table: OCPR
+";"Description: Display BP Catalog Number
+Type: string
+Field Length: 1
+";"Description: Series
+Type: long
+Field Length: 11
+Related Table: NNM1
+";"Description: Document Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Partial Delivery
+Type: string
+Field Length: 1
+";"Description: Object Type
+Type: string
+Field Length: 20
+Related Table: ADP1
+";"Description: Ship-to Code
+Type: string
+Field Length: 50
+";"Description: Indicator
+Type: string
+Field Length: 2
+Related Table: OIDC
+";"Description: Licensed Dealer No.
+Type: string
+Field Length: 32
+";"Description: Discount % for Document
+Type: double
+Field Length: 40
+";"Description: Payment Reference No.
+Type: string
+Field Length: 27
+";"Description: Document Total in FC
+Type: double
+Field Length: 40
+";"Description: 1099 Form
+Type: long
+Field Length: 11
+Related Table: OTNN
+";"Description: 1099 Box
+Type: string
+Field Length: 20
+";"Description: Split PO
+Type: string
+Field Length: 1
+";"Description: Required Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Cancelation Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Block Dunning
+Type: string
+Field Length: 1
+";"Description: Pick
+Type: string
+Field Length: 1
+";"Description: Payment Method
+Type: string
+Field Length: 15
+Related Table: OPYM
+";"Description: Payment Block
+Type: string
+Field Length: 1
+";"Description: Payment Block Abs Entry
+Type: long
+Field Length: 11
+Related Table: OPYB
+";"Description: Central Bank Indicator
+Type: string
+Field Length: 15
+Related Table: OCBI
+";"Description: Maximum Discount
+Type: string
+Field Length: 1
+";"Description: Project Code
+Type: string
+Field Length: 20
+Related Table: OPRJ
+";"Description: Exemption Validity Date From
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Exemption Validity Date To
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Warehouse Update
+Type: string
+Field Length: 1
+";"Description: Rounding
+Type: string
+Field Length: 1
+";"Description: External Corrected Document No.
+Type: string
+Field Length: 25
+";"Description: Internal Corrected Document No.
+Type: long
+Field Length: 11
+";"Description: Deferred Tax
+Type: string
+Field Length: 1
+";"Description: Tax Exemption Letter No.
+Type: string
+Field Length: 50
+";"Description: Agent Code
+Type: string
+Field Length: 32
+Related Table: OAGP
+";"Description: No. of Installments
+Type: long
+Field Length: 6
+";"Description: Apply Tax on 1st Installment
+Type: string
+Field Length: 1
+";"Description: VAT Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Document Owner
+Type: long
+Field Length: 11
+Related Table: OHEM
+";"Description: Folio Prefix String
+Type: string
+Field Length: 4
+";"Description: Folio Number
+Type: long
+Field Length: 11
+";"Description: VAT Code for Tax Invoice Rpt
+Type: string
+Field Length: 2
+";"Description: BP Channel Code
+Type: string
+Field Length: 15
+Related Table: OCRD
+";"Description: BP Channel Contact Person
+Type: long
+Field Length: 11
+Related Table: OCPR
+";"Description: Ship-To Address
+Type: string
+Field Length: 254
+";"Description: Pay to
+Type: string
+Field Length: 50
+";"Description: Manual Number
+Type: string
+Field Length: 20
+";"Description: Use Shipped Goods Account
+Type: string
+Field Length: 1
+";"Description: Is Pay to Bank
+Type: string
+Field Length: 1
+";"Description: Pay to Bank Country
+Type: string
+Field Length: 3
+Related Table: OCRY
+";"Description: Pay to Bank Code
+Type: string
+Field Length: 30
+";"Description: Pay to Bank Account No.
+Type: string
+Field Length: 50
+";"Description: Pay to Bank Branch
+Type: string
+Field Length: 50
+";"Description: Branch
+Type: long
+Field Length: 11
+Related Table: OBPL
+";"Description: Down Payment Percent
+Type: double
+Field Length: 40
+";"Description: Reserve Invoice
+Type: string
+Field Length: 1
+";"Description: Language Code
+Type: long
+Field Length: 11
+Related Table: OLNG
+";"Description: Tracking Number
+Type: string
+Field Length: 30
+";"Description: Pick Remarks
+Type: string
+Field Length: 254
+";"Description: Document Closing Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Sequence Code
+Type: long
+Field Length: 6
+";"Description: Serial Number
+Type: long
+Field Length: 11
+";"Description: Series String
+Type: string
+Field Length: 3
+";"Description: Subseries String
+Type: string
+Field Length: 3
+";"Description: Nota Fiscal Model
+Type: string
+Field Length: 6
+Related Table: ONFM
+";"Description: Use Correction VAT Group
+Type: string
+Field Length: 1
+";"Description: Down Payment Amount LC
+Type: double
+Field Length: 40
+";"Description: Down Payment Percent
+Type: double
+Field Length: 40
+";"Description: Down Payment Was Posted
+Type: string
+Field Length: 1
+";"Description: Down Payment Amount SC
+Type: double
+Field Length: 40
+";"Description: Down Payment Amount FC
+Type: double
+Field Length: 40
+";"Description: Tax Rate
+Type: double
+Field Length: 40
+";"Description: Gross Profit Prcnt of Service
+Type: double
+Field Length: 40
+";"Description: Header
+Type: string
+Field Length: 256000
+";"Description: Footer
+Type: string
+Field Length: 256000
+";"Description: Rounding Diff. Amount
+Type: double
+Field Length: 40
+";"Description: Control Account
+Type: string
+Field Length: 15
+Related Table: OACT
+";"Description: 347 Insurance Operation
+Type: string
+Field Length: 1
+";"Description: Ignore Relevant Doc on Archive
+Type: string
+Field Length: 1
+";"Description: Checker
+Type: long
+Field Length: 11
+Related Table: OHEM
+";"Description: Payee
+Type: long
+Field Length: 11
+Related Table: OHEM
+";"Description: Number of Additional Months
+Type: long
+Field Length: 6
+";"Description: Number of Additional Days
+Type: long
+Field Length: 6
+";"Description: Cash Discount Offset
+Type: long
+Field Length: 6
+";"Description: Start From
+Type: string
+Field Length: 1
+";"Description: NTS Approved
+Type: string
+Field Length: 1
+";"Description: E-Tax Web Site
+Type: long
+Field Length: 6
+Related Table: OTWS
+";"Description: E-Tax Number
+Type: string
+Field Length: 50
+";"Description: NTS Approval Number
+Type: string
+Field Length: 50
+";"Description: Electr. Doc. Generation Type
+Type: string
+Field Length: 1
+";"Description: Electronic Series
+Type: long
+Field Length: 6
+Related Table: NNM4
+";"Description: Electronic Document Number
+Type: string
+Field Length: 50
+";"Description: Electronic Doc. Export Format
+Type: long
+Field Length: 11
+";"Description: Electronic Document Status
+Type: string
+Field Length: 1
+";"Description: Electronic Document Error Code
+Type: string
+Field Length: 50
+";"Description: Electronic Document Error Msg
+Type: string
+Field Length: 256000
+";"Description: Summary VAT Abstract ID
+Type: string
+Field Length: 1
+";"Description: Pur Quotation Group Series
+Type: long
+Field Length: 11
+";"Description: Pur Quotation Group Number
+Type: long
+Field Length: 11
+";"Description: Pur Quotation Group Manual
+Type: string
+Field Length: 1
+";"Description: Reopen Origin. Order by Return
+Type: string
+Field Length: 1
+";"Description: Reop. Man. Closed/Canc. Orders
+Type: string
+Field Length: 1
+";"Description: Create Online Quotation
+Type: string
+Field Length: 1
+";"Description: POS Equipment Number
+Type: string
+Field Length: 20
+";"Description: POS Manufacturer Serial Number
+Type: string
+Field Length: 20
+";"Description: POS Cashier Number
+Type: long
+Field Length: 11
+";"Description: Discount Document with Dpm
+Type: string
+Field Length: 1
+";"Description: Closing Option
+Type: long
+Field Length: 6
+";"Description: Posting Date Specified by User
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Open For Landed Costs
+Type: string
+Field Length: 1
+";"Description: Relevant To GTS
+Type: string
+Field Length: 1
+";"Description: Annual Inv. Declaration Ref.
+Type: long
+Field Length: 11
+";"Description: Supplier
+Type: string
+Field Length: 15
+Related Table: OCRD
+";"Description: Goods Distribution Approver
+Type: long
+Field Length: 11
+Related Table: OHEM
+";"Description: Goods Release Approver
+Type: long
+Field Length: 11
+Related Table: OHEM
+";"Description: Agreement No.
+Type: long
+Field Length: 11
+";"Description: Is Alteration
+Type: string
+Field Length: 1
+";"Description: Fixed Asset Value Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Document Delivery
+Type: string
+Field Length: 1
+";"Description: Authorization Code
+Type: string
+Field Length: 250
+";"Description: Start Delivery Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Start Delivery Time
+Type: long
+Field Length: 11
+";"Description: End Delivery Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: End Delivery Time
+Type: long
+Field Length: 11
+";"Description: Vehicle Plate
+Type: string
+Field Length: 20
+";"Description: AT Document Type
+Type: string
+Field Length: 2
+";"Description: Elec. Comm. Status
+Type: string
+Field Length: 10
+";"Description: Is Reusing Document Number
+Type: string
+Field Length: 1
+";"Description: Is Reusing Nota Fiscal Number
+Type: string
+Field Length: 1
+";"Description: Print SEPA Direct Debit Prenotification
+Type: string
+Field Length: 1
+";"Description: Fiscal Document Number
+Type: string
+Field Length: 100
+";"Description: POS Daily Summary Number
+Type: long
+Field Length: 11
+Related Table: OZRD
+";"Description: POS Receipt Number
+Type: long
+Field Length: 11
+";"Description: POI Code
+Type: string
+Field Length: 5
+Related Table: OPTI
+";"Description: Letter
+Type: string
+Field Length: 1
+";"Description: Folio Number From
+Type: long
+Field Length: 11
+";"Description: Folio Number To
+Type: long
+Field Length: 11
+";"Description: Interim Type
+Type: long
+Field Length: 6
+";"Description: Related Type
+Type: long
+Field Length: 11
+";"Description: Related Entry
+Type: long
+Field Length: 11
+";"Description: Extended SAP Passport
+Type: string
+Field Length: 256000
+";"Description: Document Tax ID
+Type: string
+Field Length: 32
+";"Description: Date of Reporting
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Reporting Section
+Type: string
+Field Length: 3
+";"Description: Exclude from Control Statement
+Type: string
+Field Length: 1
+";"Description: POS/Cash Register
+Type: long
+Field Length: 11
+";"Description: Ship-to Code
+Type: string
+Field Length: 50
+";"Description: Commission Trade
+Type: string
+Field Length: 1
+";"Description: Commission Trade Return
+Type: string
+Field Length: 1
+";"Description: Determine GST by Using Bill to
+Type: string
+Field Length: 1
+";"Description: Contract Code Identification
+Type: long
+Field Length: 11
+Related Table: OCIG
+";"Description: Unique Code of Project
+Type: long
+Field Length: 11
+Related Table: OCUP
+";"Description: Establecimiento
+Type: string
+Field Length: 3
+";"Description: Punto de Emisión
+Type: string
+Field Length: 3
+";"Description: Num. Autorización
+Type: string
+Field Length: 49
+";"Description: Sustento Tributario
+Type: string
+Field Length: 30
+Related Table: @EXX_SUST_TRIB
+";"Description: Estab. Fact.Relac.
+Type: string
+Field Length: 3
+";"Description: Punto Emisión. Fac.Relac
+Type: string
+Field Length: 3
+";"Description: Num.Autoriz.Fact.Relac
+Type: string
+Field Length: 49
+";"Description: Num. Factura Relac.
+Type: string
+Field Length: 9
+";"Description: # Comprob. Retenc.
+Type: string
+Field Length: 18
+";"Description: Serie Retención
+Type: string
+Field Length: 6
+";"Description: # Autor.Retención
+Type: string
+Field Length: 49
+";"Description: Fecha Inicio Traslado
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Fecha Terminac.Traslado
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Fecha Emisión Doc Vtas
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: # Declaración Aduanera
+Type: string
+Field Length: 20
+";"Description: Motivo
+Type: string
+Field Length: 1
+";"Description: Punto Partida
+Type: string
+Field Length: 50
+";"Description: Número de Guia
+Type: string
+Field Length: 16
+";"Description: Correlativo
+Type: string
+Field Length: 8
+";"Description: Verificador
+Type: string
+Field Length: 1
+";"Description: Cod. Transporte
+Type: string
+Field Length: 30
+Related Table: @EXXIS_TRANSPORTE
+";"Description: Transportista
+Type: string
+Field Length: 30
+Related Table: @EXX_TRANSPORTISTA
+";"Description: Fecha de la Transacción
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Inf. Pago
+Type: string
+Field Length: 2
+";"Description: País al cual se pago
+Type: string
+Field Length: 30
+";"Description: Aplica doble  trib.
+Type: string
+Field Length: 1
+";"Description: Pag.Sujeto a Ret. N.Legal
+Type: string
+Field Length: 1
+";"Description: Fecha Ret.
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Rembolso
+Type: string
+Field Length: 50
+";"Description: F/Pag x doc.
+Type: string
+Field Length: 30
+";"Description: Tipo Doc Aplica
+Type: string
+Field Length: 2
+";"Description: Tipo Exportación
+Type: string
+Field Length: 2
+";"Description: Tipo Comprobante
+Type: string
+Field Length: 2
+";"Description: Externa
+Type: string
+Field Length: 2
+";"Description: Distrito Aduanero
+Type: string
+Field Length: 30
+Related Table: @EXX_DIST_ADUANERO
+";"Description: REFRENDO AÑO
+Type: long
+Field Length: 6
+";"Description: Refrendo Regímen
+Type: string
+Field Length: 30
+Related Table: @EXX_CODIGO_REGIMEN
+";"Description: Valor FOB Aduana
+Type: double
+Field Length: 40
+";"Description: No. Documento Transporte
+Type: string
+Field Length: 13
+";"Description: Num. FUE
+Type: string
+Field Length: 13
+";"Description: Motivos de Notas de Crédito
+Type: string
+Field Length: 30
+Related Table: @EXX_MOT_VEN_NC
+";"Description: Motivos de Notas de Débito
+Type: string
+Field Length: 30
+Related Table: @EXX_MOT_VEN_ND
+";"Description: F. E. Tipo de Comprobante
+Type: string
+Field Length: 30
+Related Table: @EXX_FE_TIPCOM
+";"Description: F. E. Tipo de Ambiente
+Type: string
+Field Length: 30
+Related Table: @EXX_FE_TIPAMB
+";"Description: F. E. Código Numérico
+Type: string
+Field Length: 23
+";"Description: F. E. Tipo de Emisión
+Type: string
+Field Length: 30
+Related Table: @EXX_FE_TIPEMI
+";"Description: F. E. Dígito Verificador
+Type: string
+Field Length: 1
+";"Description: F. E. Fecha/Hora de Autoriza.
+Type: string
+Field Length: 14
+";"Description: Considerar para Dinardap
+Type: string
+Field Length: 1
+";"Description: FE País Destino
+Type: string
+Field Length: 3
+";"Description: El pago es a un régimen fiscal
+Type: string
+Field Length: 2
+";"Description: Fecha de pago del dividendo
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Imp. a la Renta pagado
+Type: double
+Field Length: 40
+";"Description: Año en que se generaron Utili.
+Type: long
+Field Length: 6
+";"Description: Cantidad de cajas estándar
+Type: long
+Field Length: 11
+";"Description: Precio de la caja de banano
+Type: double
+Field Length: 40
+";"Description: Carpeta de Importación
+Type: string
+Field Length: 30
+";"Description: Hora de Llegada
+Type: long
+Field Length: 6
+";"Description: Hora de Salida
+Type: long
+Field Length: 6
+";"Description: Compensación Solidaria
+Type: string
+Field Length: 2
+";"Description: Forma de Pago Ventas
+Type: string
+Field Length: 30
+";"Description: Negociable
+Type: string
+Field Length: 2
+";"Description: Forma de Pago Compras
+Type: string
+Field Length: 30
+";"Description: Compensado
+Type: string
+Field Length: 10
+";"Description: Valor Compensado
+Type: double
+Field Length: 40
+";"Description: Denominación régimen fiscal
+Type: string
+Field Length: 200
+";"Description: El ingreso ext. fue grv. IR.
+Type: string
+Field Length: 2
+";"Description: Paraiso Fiscal
+Type: string
+Field Length: 30
+";"Description: Tipos de Ingresos del exterior
+Type: string
+Field Length: 30
+";"Description: Tipos de regímen fiscal
+Type: string
+Field Length: 10
+";"Description: Valor del IR del Exterior
+Type: double
+Field Length: 40
+";"Description: Mot. Transac.:
+Type: string
+Field Length: 10
+";"Description: Motivo Traslado IMR
+Type: string
+Field Length: 50
+";"Description: FE Descripción del Error
+Type: string
+Field Length: 254
+";"Description: FE Código de Error
+Type: string
+Field Length: 4
+";"Description: FEX Estado Documento
+Type: string
+Field Length: 10
+";"Description: FE Clave de Acceso
+Type: string
+Field Length: 60
+";"Description: Serie Guia
+Type: string
+Field Length: 6
+";"Description: FE PDF Creado
+Type: string
+Field Length: 10
+";"Description: FE PDF Error
+Type: string
+Field Length: 254
+";"Description: FE Mail Enviado
+Type: string
+Field Length: 10
+";"Description: FE Mail Error
+Type: string
+Field Length: 254
+";"Description: FE Reembolso en Ventas
+Type: string
+Field Length: 30
+";"Description: FE Comercio Exterior
+Type: string
+Field Length: 10
+";"Description: FE Inicio Neg Exp
+Type: string
+Field Length: 10
+";"Description: FE Lugar Neg Exp
+Type: string
+Field Length: 254
+";"Description: FE País Origen
+Type: string
+Field Length: 3
+";"Description: FE Puertos Embarques
+Type: string
+Field Length: 254
+";"Description: FE Puerto Destino
+Type: string
+Field Length: 254
+";"Description: FE País Adquisición
+Type: string
+Field Length: 3
+";"Description: FE Term Total Sin Impuestos
+Type: string
+Field Length: 10
+";"Description: FE Flete Internacional
+Type: string
+Field Length: 14
+";"Description: FE Seguro Internacional
+Type: string
+Field Length: 14
+";"Description: Provincia
+Type: string
+Field Length: 60
+";"Description: Ciudad
+Type: string
+Field Length: 50
+";"Description: Trayecto
+Type: string
+Field Length: 40
+";"Description: Regional
+Type: string
+Field Length: 40
+";"Description: HorarioEntrega
+Type: string
+Field Length: 50
+Related Table: @IMR_HOR_ENTR
+";"Description: Productos
+Type: string
+Field Length: 50
+Related Table: @IMR_PRODUCTOS
+";"Description: Envio Domicilio
+Type: string
+Field Length: 4
+";"Description: Retiro Oficina
+Type: string
+Field Length: 4
+";"Description: ListaSN
+Type: string
+Field Length: 40
+";"Description: Trans Velasco
+Type: string
+Field Length: 50
+Related Table: @IMR_TRANSPORTE
+";"Description: DirAlmDestino
+Type: string
+Field Length: 100
+";"Description: Ruta
+Type: string
+Field Length: 100
+";"Description: Direccion Final
+Type: string
+Field Length: 100
+";"Description: InfoGuia
+Type: string
+Field Length: 100
+";"Description: InfoFactura
+Type: string
+Field Length: 100
+";"Description: TipoCobro
+Type: string
+Field Length: 50
+Related Table: @IMR_TIPO_COBRO
+";"Description: Motivo Anulacion
+Type: string
+Field Length: 50
+Related Table: @IMR_MOT_ANUL
+";"Description: Grupo Cliente
+Type: string
+Field Length: 100
+";"Description: Peso Total
+Type: string
+Field Length: 40
+"
+"This field serves as the key of the record in SAP BusinessOne system and it is mandatory. This field is used as a reference in the child template. When adding new data, in case of manual mode (i.e., ‘Handwritten’ property is ‘yes’), the value of this field should be the real document number key in SAP BusinessOne. In case of serial mode (i.e., ‘Handwritten’ property is ‘no’), the value of this field should be user defined (e.g., 1,2,3, etc.). When updating existing data, the value of this field should be the real record key in SAP BusinessOne.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;

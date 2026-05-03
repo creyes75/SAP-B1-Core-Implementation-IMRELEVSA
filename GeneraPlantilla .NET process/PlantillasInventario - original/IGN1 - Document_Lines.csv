@@ -1,0 +1,463 @@
+ParentKey;LineNum;ItemCode;ItemDescription;Quantity;ShipDate;Price;PriceAfterVAT;Currency;Rate;DiscountPercent;VendorNum;SerialNum;WarehouseCode;SalesPersonCode;CommisionPercent;TreeType;AccountCode;UseBaseUnits;SupplierCatNum;CostingCode;ProjectCode;BarCode;VatGroup;Height1;Hight1Unit;Height2;Height2Unit;Lengh1;Lengh1Unit;Lengh2;Lengh2Unit;Weight1;Weight1Unit;Weight2;Weight2Unit;Factor1;Factor2;Factor3;Factor4;BaseType;BaseEntry;BaseLine;Volume;VolumeUnit;Width1;Width1Unit;Width2;Width2Unit;Address;TaxCode;TaxType;TaxLiable;BackOrder;FreeText;ShippingMethod;CorrectionInvoiceItem;CorrInvAmountToStock;CorrInvAmountToDiffAcct;WTLiable;DeferredTax;MeasureUnit;UnitsOfMeasurment;LineTotal;TaxPercentagePerRow;TaxTotal;ConsumerSalesForecast;ExciseAmount;CountryOrg;SWW;TransactionType;DistributeExpense;RowTotalFC;CFOPCode;CSTCode;Usage;TaxOnly;UnitPrice;LineStatus;PackageQuantity;LineType;COGSCostingCode;COGSAccountCode;ChangeAssemlyBoMWarehouse;GrossBuyPrice;GrossBase;GrossProfitTotalBasePrice;CostingCode2;CostingCode3;CostingCode4;CostingCode5;ItemDetails;LocationCode;ActualDeliveryDate;ExLineNo;RequiredDate;RequiredQuantity;COGSCostingCode2;COGSCostingCode3;COGSCostingCode4;COGSCostingCode5;CSTforIPI;CSTforPIS;CSTforCOFINS;CreditOriginCode;WithoutInventoryMovement;AgreementNo;AgreementRowNumber;ActualBaseEntry;ActualBaseLine;DocEntry;Surpluses;DefectAndBreakup;Shortages;ConsiderQuantity;PartialRetirement;RetirementQuantity;RetirementAPC;ThirdParty;ExpenseType;ReceiptNumber;ExpenseOperationType;FederalTaxID;UoMEntry;InventoryQuantity;ParentLineNum;Incoterms;TransportMode;ChangeInventoryQuantityIndependently;FreeOfChargeBP;SACEntry;HSNEntry;GrossPrice;GrossTotal;GrossTotalFC;NCMCode;U_EXX_FE_ValICEVta;U_EXX_FE_PorICEVta;U_EXX_C_PATRIMONIO;U_Exx_ice_base;U_Exx_Ice_ExF;U_Exx_Valor_ICE;U_ValorListaRef
+DocNum;LineNum;ItemCode;Dscription;Quantity;ShipDate;Price;PriceAfVAT;Currency;Rate;DiscPrcnt;VendorNum;SerialNum;WhsCode;SlpCode;Commission;TreeType;AcctCode;UseBaseUn;SubCatNum;OcrCode;Project;CodeBars;VatGroup;Height1;Hght1Unit;Height2;Hght2Unit;Length1;Len1Unit;length2;Len2Unit;Weight1;Wght1Unit;Weight2;Wght2Unit;Factor1;Factor2;Factor3;Factor4;BaseType;BaseEntry;BaseLine;Volume;VolUnit;Width1;Wdth1Unit;Width2;Wdth2Unit;Address;TaxCode;TaxType;TaxStatus;BackOrdr;FreeTxt;TrnsCode;CEECFlag;ToStock;ToDiff;WtLiable;DeferrTax;unitMsr;NumPerMsr;LineTotal;VatPrcnt;VatSum;ConsumeFCT;ExciseAmt;CountryOrg;SWW;TranType;DistribExp;TotalFrgn;CFOPCode;CSTCode;Usage;TaxOnly;PriceBefDi;LineStatus;PackQty;LineType;CogsOcrCod;CogsAcct;ChgAsmBoMW;GrossBuyPr;GrossBase;GPTtlBasPr;OcrCode2;OcrCode3;OcrCode4;OcrCode5;Text;LocCode;ActDelDate;ExLineNo;PQTReqDate;PQTReqQty;CogsOcrCo2;CogsOcrCo3;CogsOcrCo4;CogsOcrCo5;CSTfIPI;CSTfPIS;CSTfCOFINS;CredOrigin;NoInvtryMv;AgrNo;AgrLnNum;ActBaseEnt;ActBaseLn;DocEntry;Surpluses;DefBreak;Shortages;NeedQty;PartRetire;RetireQty;RetireAPC;ThirdParty;ExpType;ExpUUID;ExpOpType;LicTradNum;UomEntry;InvQty;PrntLnNum;Incoterms;TransMod;InvQtyOnly;FreeChrgBP;SacEntry;HsnEntry;GPBefDisc;GTotal;GTotalFC;NCMCode;U_EXX_FE_ValICEVta;U_EXX_FE_PorICEVta;U_EXX_C_PATRIMONIO;U_Exx_ice_base;U_Exx_Ice_ExF;U_Exx_Valor_ICE;U_ValorListaRef
+;"It should be an integer which begin with 0, it is both for updating and importing.";"Description: Item No.
+Type: string
+Field Length: 50
+Related Table: OITM
+This field is mandatory";"Description: Item/Service Description
+Type: string
+Field Length: 100
+";"Description: Quantity
+Type: double
+Field Length: 40
+";"Description: Row Delivery Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Price
+Type: double
+Field Length: 40
+";"Description: Gross Price after Discount
+Type: double
+Field Length: 40
+";"Description: Price Currency
+Type: string
+Field Length: 3
+Related Table: OCRN
+";"Description: Currency Rate
+Type: double
+Field Length: 40
+";"Description: Discount % per Row
+Type: double
+Field Length: 40
+";"Description: Vendor Catalog No.
+Type: string
+Field Length: 50
+";"Description: Serial Number
+Type: string
+Field Length: 17
+";"Description: Warehouse Code
+Type: string
+Field Length: 8
+Related Table: OWHS
+";"Description: Sales Employee Code
+Type: long
+Field Length: 11
+Related Table: OSLP
+";"Description: Commission Percentage
+Type: double
+Field Length: 40
+";"Description: BOM Type
+Type: enum
+Valid Values: iNotATree,iAssemblyTree,iSalesTree,iProductionTree,iTemplateTree,iIngredient
+";"Description: Account Code
+Type: string
+Field Length: 15
+Related Table: OACT
+";"Description: Inventory UoM
+Type: string
+Field Length: 1
+";"Description: Customer/Vendor Cat. No.
+Type: string
+Field Length: 50
+Related Table: OSCN
+";"Description: Distribution Rule
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: Project Code
+Type: string
+Field Length: 20
+Related Table: OPRJ
+";"Description: Bar Code
+Type: string
+Field Length: 254
+";"Description: Tax Definition
+Type: string
+Field Length: 8
+Related Table: OVTG
+";"Description: Height 1
+Type: double
+Field Length: 40
+";"Description: Unit of Height 1
+Type: long
+Field Length: 6
+";"Description: Height 2
+Type: double
+Field Length: 40
+";"Description: Unit of Height 2
+Type: long
+Field Length: 6
+";"Description: Length 1
+Type: double
+Field Length: 40
+";"Description: Unit of Length 1
+Type: long
+Field Length: 6
+";"Description: Length 2
+Type: double
+Field Length: 40
+";"Description: Unit of Length 2
+Type: long
+Field Length: 6
+";"Description: Weight 1
+Type: double
+Field Length: 40
+";"Description: Unit of Weight 1
+Type: long
+Field Length: 6
+";"Description: Weight 2
+Type: double
+Field Length: 40
+";"Description: Unit of Weight 2
+Type: long
+Field Length: 6
+";"Description: Factor 1
+Type: double
+Field Length: 40
+";"Description: Factor 2
+Type: double
+Field Length: 40
+";"Description: Factor 3
+Type: double
+Field Length: 40
+";"Description: Factor 4
+Type: double
+Field Length: 40
+";"Description: Base Document Type
+Type: long
+Field Length: 11
+";"Description: Base Document Internal ID
+Type: long
+Field Length: 11
+";"Description: Base Row
+Type: long
+Field Length: 11
+";"Description: Quantity
+Type: double
+Field Length: 40
+";"Description: Volume UoM
+Type: long
+Field Length: 6
+";"Description: Width 1
+Type: double
+Field Length: 40
+";"Description: Unit of Width 1
+Type: long
+Field Length: 6
+";"Description: Width 2
+Type: double
+Field Length: 40
+";"Description: Unit of Width 2
+Type: long
+Field Length: 6
+";"Description: Address
+Type: string
+Field Length: 254
+";"Description: Tax Code
+Type: string
+Field Length: 8
+Related Table: OSTC
+";"Description: Tax Type
+Type: string
+Field Length: 1
+";"Description: Tax Definition
+Type: string
+Field Length: 1
+";"Description: Allow Backorder
+Type: string
+Field Length: 1
+";"Description: Free Text
+Type: string
+Field Length: 100
+";"Description: Shipping Method
+Type: long
+Field Length: 6
+Related Table: OSHP
+";"Description: Correction Invoice Was/Should Be
+Type: string
+Field Length: 1
+";"Description: Corr. Invoice Amt to Inventory
+Type: double
+Field Length: 40
+";"Description: Corr. Invoice Amount to Diff.
+Type: double
+Field Length: 40
+";"Description: Withholding Tax Liable
+Type: string
+Field Length: 1
+";"Description: Deferred Tax
+Type: string
+Field Length: 1
+";"Description: Unit
+Type: string
+Field Length: 100
+";"Description: UoM Value
+Type: double
+Field Length: 40
+";"Description: Row Total
+Type: double
+Field Length: 40
+";"Description: Tax Rate per Row
+Type: double
+Field Length: 40
+";"Description: Total Tax
+Type: double
+Field Length: 40
+";"Description: Consumer Sales Forecast
+Type: string
+Field Length: 1
+";"Description: Excise Amount
+Type: double
+Field Length: 40
+";"Description: Country of Origin
+Type: string
+Field Length: 3
+";"Description: Additional Identifier
+Type: string
+Field Length: 16
+";"Description: Transaction Type
+Type: string
+Field Length: 1
+";"Description: Distribute Freight
+Type: string
+Field Length: 1
+";"Description: Row Total (FC)
+Type: double
+Field Length: 40
+";"Description: CFOP Code for Document
+Type: string
+Field Length: 6
+Related Table: OCFP
+";"Description: CST Code for ICMS
+Type: string
+Field Length: 6
+";"Description: Usage Code for Document
+Type: long
+Field Length: 11
+Related Table: OUSG
+";"Description: Tax Only
+Type: string
+Field Length: 1
+";"Description: Unit Price
+Type: double
+Field Length: 40
+";"Description: Row Status
+Type: string
+Field Length: 1
+";"Description: Packing Quantity
+Type: double
+Field Length: 40
+";"Description: Row Type
+Type: string
+Field Length: 1
+";"Description: COGS Distribution Rule Code
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: COGS Account Code
+Type: string
+Field Length: 15
+Related Table: OACT
+";"Description: Change Whs for Asm BoM Child
+Type: string
+Field Length: 1
+";"Description: Base Price for Gross Profit
+Type: double
+Field Length: 40
+";"Description: Base Method for Gross Profit
+Type: long
+Field Length: 6
+";"Description: Total Base Price for Profit
+Type: double
+Field Length: 40
+";"Description: Costing Code 2
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: Costing Code 3
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: Costing Code 4
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: Costing Code 5
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: Text
+Type: string
+Field Length: 256000
+";"Description: Location Code
+Type: long
+Field Length: 11
+Related Table: OLCT
+";"Description: Actual Delivery Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: ExLineNo
+Type: string
+Field Length: 10
+";"Description: Pur Quotation: Required Date
+Type: Date
+Format: YYYYMMDD
+Field Length: 8
+";"Description: Pur Quotation: Required Qty
+Type: double
+Field Length: 40
+";"Description: COGS Distribution Rule Code2
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: COGS Distribution Rule Code3
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: COGS Distribution Rule Code4
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: COGS Distribution Rule Code5
+Type: string
+Field Length: 8
+Related Table: OOCR
+";"Description: CST for IPI Code
+Type: string
+Field Length: 2
+";"Description: CST for PIS Code
+Type: string
+Field Length: 2
+";"Description: CST for COFINS Code
+Type: string
+Field Length: 2
+";"Description: Credit Origin
+Type: string
+Field Length: 1
+Related Table: OBSI
+";"Description: Without Inventory Movement
+Type: string
+Field Length: 1
+";"Description: Agreement No.
+Type: long
+Field Length: 11
+";"Description: Agreement Row Number
+Type: long
+Field Length: 11
+";"Description: Actual Base Document Entry
+Type: long
+Field Length: 11
+";"Description: Actual Base Line Number
+Type: long
+Field Length: 11
+";"Description: Document Internal ID
+Type: long
+Field Length: 11
+Related Table: OIGN
+";"Description: Surpluses
+Type: double
+Field Length: 40
+";"Description: Defect and Breakup
+Type: double
+Field Length: 40
+";"Description: Shortages
+Type: double
+Field Length: 40
+";"Description: Consider Quantity of Items
+Type: string
+Field Length: 1
+";"Description: Partial Retirement
+Type: string
+Field Length: 1
+";"Description: Retirement Quantity
+Type: double
+Field Length: 40
+";"Description: Retirement APC
+Type: double
+Field Length: 40
+";"Description: Third Party
+Type: string
+Field Length: 1
+";"Description: Expense Type
+Type: string
+Field Length: 4
+Related Table: OEXD
+";"Description: Expense UUID
+Type: string
+Field Length: 50
+";"Description: Expense Operation Type
+Type: string
+Field Length: 1
+";"Description: Federal Tax ID
+Type: string
+Field Length: 32
+";"Description: UoM Entry
+Type: long
+Field Length: 11
+Related Table: OUOM
+";"Description: Quantity - Inventory UoM
+Type: double
+Field Length: 40
+";"Description: Parent Line Number
+Type: long
+Field Length: 11
+";"Description: Incoterms
+Type: long
+Field Length: 11
+Related Table: ODCI
+";"Description: Transport Mode
+Type: long
+Field Length: 11
+Related Table: ODCI
+";"Description: Change Qty (Inv. UoM) Only
+Type: string
+Field Length: 1
+";"Description: Free of Charge (BP)
+Type: string
+Field Length: 1
+";"Description: SAC Entry
+Type: long
+Field Length: 11
+Related Table: OSAC
+";"Description: HSN Entry
+Type: long
+Field Length: 11
+";"Description: Gross Price
+Type: double
+Field Length: 40
+";"Description: Gross Total
+Type: double
+Field Length: 40
+";"Description: Gross Total (FC)
+Type: double
+Field Length: 40
+";"Description: NCM Code
+Type: long
+Field Length: 11
+Related Table: ONCM
+";"Description: ICE PVP Sugerido
+Type: double
+Field Length: 40
+";"Description: Porcentaje ICE Venta
+Type: double
+Field Length: 40
+";"Description: Cambios en el Patrimonio
+Type: string
+Field Length: 30
+Related Table: @EXXIS_C_PATRIMONIO
+";"Description: Base Imponible ICE
+Type: double
+Field Length: 40
+";"Description: ICE ExFabrica/ ExAduana
+Type: double
+Field Length: 40
+";"Description: Valor ICE Calculado
+Type: double
+Field Length: 40
+";"Description: Valor Lista Ref
+Type: double
+Field Length: 40
+"
+"This field serves as a link to the parent template and it is mandatory. Either when adding new data or updating existing data, the value of this field should be taken from the parent template (the value of the first field in the parent template). The name of the parent key field is specified in the second row of this template.";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
